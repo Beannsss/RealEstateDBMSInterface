@@ -1,13 +1,5 @@
 2 users
 
-Basic permission: Has permission to search properties.
-
-Username: user Password: test
-
-admin (agent) permission: Admin has access to add/edit properties/listings
-
-Username: admin Password: test
-
 test: login
 testIndex: search
 testForm: add/edit form
